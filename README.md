@@ -1,5 +1,5 @@
 ### Hi there ✨
-You probably know me from my foundry modules, I'm Chasarooni, and here is a list of all the modules I am currently maintaining. Also you can reach out to me via github issue, if for some reason I don't see them you can reach out to me on the pf2e fvtt discord. Without further ado, my modules:
+You probably know me from my foundry modules, I'm Chasarooni, and here is a list of all the modules I am currently maintaining. Without further ado, my modules:
 
 - 📜[**Genga**](https://foundryvtt.com/packages/genga). System agnostic animations, also functions as a library modules for RPG Numbers
 - 🐉[**PF2e RPG Numbers & More**](https://foundryvtt.com/packages/pf2e-rpg-numbers). A module that adds a host of neat visual effects for the PF2e system. Covers a different use case than modules like Graphics and AA, in that most of these animations aren't specific to an item or action, but just general animatons (IE the Damage Numbers) etc.
@@ -16,6 +16,8 @@ You probably know me from my foundry modules, I'm Chasarooni, and here is a list
 - ⚖️[**O is for Objection**](https://foundryvtt.com/packages/objection). A nice little phoenix wright visual effect module
 - ✂️[**Depruner**](https://foundryvtt.com/packages/depruner-chat-message-remover). Small module that removes messages when they go above a certain amount for performance reasons
 - [**Ready For the Stage - Theatre Inserts Extension**](https://foundryvtt.com/packages/ready-for-the-stage) - Extension to theatre inserts module to make it more usable for my cases
+
+You can reach out to me via github issue, if for some reason I don't see them you can reach out to me on the pf2e fvtt discord (`chasarooni`) in my module threads.
 
 <!--
 **ChasarooniZ/ChasarooniZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
