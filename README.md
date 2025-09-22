@@ -14,8 +14,9 @@ You probably know me from my foundry modules, I'm Chasarooni, and here is a list
 - 🗼 [**Abomination Vaults: Addons (PF2e)**](https://foundryvtt.com/packages/abomination-vaults-addons). Addons with extra animations, assets, ideas for Abomination Vaults
 - 💡 [**PF2e Abomination Vaults: Expanded**](https://foundryvtt.com/packages/pf2e-abomination-vaults-expanded). Implemented Abomination Vaults Expanded into Foundryvtt
 - ⚖️ [**O is for Objection**](https://foundryvtt.com/packages/objection). A nice little phoenix wright visual effect module
+- 🧰 [**Sundry. Small Tidbits for (Mostly) PF2e**](https://foundryvtt.com/packages/sundry). Misc fixes/ QOL stuff mostly for PF2e, see the module github page for a [list of all features](https://github.com/ChasarooniZ/sundry/blob/main/README.md#features)
 - ✂️ [**Depruner**](https://foundryvtt.com/packages/depruner-chat-message-remover). Small module that removes messages when they go above a certain amount for performance reasons
-- [**Ready For the Stage - Theatre Inserts Extension**](https://foundryvtt.com/packages/ready-for-the-stage) - Extension to theatre inserts module to make it more usable for my cases
+- 🎭 [**Ready For the Stage - Theatre Inserts Extension**](https://foundryvtt.com/packages/ready-for-the-stage) - Extension to theatre inserts module to make it more usable for my cases
 
 You can reach out to me via github issue, if for some reason I don't see them you can reach out to me on the pf2e fvtt discord (`chasarooni`) in my module threads.
 
